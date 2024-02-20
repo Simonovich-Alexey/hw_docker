@@ -7,7 +7,7 @@ POST {{baseUrl}}/products/
 Content-Type: application/json
 
 {
-  "title": "Тыква",
+  "title": "Помидоры",
   "description": "Лучшие помидоры на рынке"
 }
 
